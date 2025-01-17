@@ -1,0 +1,70 @@
+[
+    {
+        "project" : "batman-projet-438510",        
+        "datasetId": "Batcave",
+        "datasetRegion": "EU",
+        "datasetFriendlyName": "Dataset Batman",
+        "datasetDescription": "This is the Batcave where we store all Batman Gadgets",
+        "tables": [
+          {
+            "tableId": "Batman_equipments",
+            "tableSchemaPath": "tables_schemas/equipment_table.json"
+          },
+          {
+            "tableId": "Alfred_equipments",
+            "tableSchemaPath": "tables_schemas/equipment_table.json"
+          },
+          {
+            "tableId": "Robin_equipments",
+            "tableSchemaPath": "tables_schemas/equipment_table.json"
+          }                                    
+        ]
+      },
+      {
+        "project" : "batman-projet-438510",        
+        "datasetId": "Arkham_Asylum",
+        "datasetRegion": "EU",
+        "datasetFriendlyName": "Arkham_Asylum in Batman project",
+        "datasetDescription": "This is the Arkham Asyleum where we can jail villains",
+        "tables": [
+          {
+            "tableId": "Cell_three",
+            "tableSchemaPath": "tables_schemas/jail_table.json"
+          }                             
+        ]
+      },      
+      {
+        "project" : "superman-projet",        
+        "datasetId": "Superman_flat",
+        "datasetRegion": "EU",
+        "datasetFriendlyName": "Dataset Superman",
+        "datasetDescription": "This is the Superman flat where he can store what he wants",
+        "tables": [
+          {
+            "tableId": "Superman_equipments",
+            "tableSchemaPath": "tables_schemas/equipment_table.json"
+          },
+          {
+            "tableId": "Lois_equipments",
+            "tableSchemaPath": "tables_schemas/equipment_table.json"
+          }                                
+        ]
+      }, 
+      {
+        "project" : "wonderwoman-projet",        
+        "datasetId": "Themyscira",
+        "datasetRegion": "EU",
+        "datasetFriendlyName": "Dataset Wonderwoman",
+        "datasetDescription": "This is the Wonderwoman Island where she can store what she wants",
+        "tables": [
+          {
+            "tableId": "Wonderwoman_equipments",
+            "tableSchemaPath": "tables_schemas/equipment_table.json"
+          },
+          {
+            "tableId": "Amazone_equipments",
+            "tableSchemaPath": "tables_schemas/equipment_table.json"
+          }                                
+        ]
+      }             
+]

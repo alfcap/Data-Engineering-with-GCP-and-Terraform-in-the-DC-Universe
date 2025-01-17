@@ -1,0 +1,8 @@
+[
+    { "name": "Name", "type": "STRING", "mode": "REQUIRED" },
+    { "name": "Crime 1", "type": "STRING", "mode": "REQUIRED" },
+    { "name": "Crime 2", "type": "STRING", "mode": "NULLABLE" },
+    { "name": "Crime 3", "type": "STRING", "mode": "NULLABLE" },
+    { "name": "Crime 4", "type": "STRING", "mode": "NULLABLE" },
+    { "name": "Crime 5", "type": "STRING", "mode": "NULLABLE" }
+  ]

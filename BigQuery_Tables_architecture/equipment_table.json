@@ -1,0 +1,5 @@
+[
+    { "name": "Name", "type": "STRING", "mode": "REQUIRED" },
+    { "name": "Number of gadget", "type": "INTEGER", "mode": "REQUIRED" },
+    { "name": "Available", "type": "BOOLEAN", "mode": "NULLABLE" }
+  ]
